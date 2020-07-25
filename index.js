@@ -7,7 +7,7 @@ admin.initializeApp();
 
 const url /*: string */ = 'https://the-one-api.herokuapp.com/v1';
 const options = {
-  headers: { Authorization: 'Bearer PbXrX3UiIv3fwK6ioiD9' },
+  headers: { Authorization: 'Bearer ' },
 };
 
 // Get the number of characters
